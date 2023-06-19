@@ -1,4 +1,4 @@
-# CV Alban Le Diraison - 2021 (dépréciated)
+# CV Alban Le Diraison - 2021 (deprecated)
 
 My resumee in static HTML and CSS
 
